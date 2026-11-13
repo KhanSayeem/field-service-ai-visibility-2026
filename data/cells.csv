@@ -1,0 +1,81 @@
+cell_id,cbsa,city,st,location_name,lat,lon,trade,organic_kw,maps_kw
+35620_plumber,35620,New York,NY,"New York,New York,United States",40.7128,-74.006,plumber,plumber near me,plumber
+35620_electrician,35620,New York,NY,"New York,New York,United States",40.7128,-74.006,electrician,electrician near me,electrician
+35620_hvac,35620,New York,NY,"New York,New York,United States",40.7128,-74.006,hvac,hvac repair near me,hvac repair
+35620_roofer,35620,New York,NY,"New York,New York,United States",40.7128,-74.006,roofer,roofer near me,roofer
+31080_plumber,31080,Los Angeles,CA,"Los Angeles,California,United States",34.0522,-118.2437,plumber,plumber near me,plumber
+31080_electrician,31080,Los Angeles,CA,"Los Angeles,California,United States",34.0522,-118.2437,electrician,electrician near me,electrician
+31080_hvac,31080,Los Angeles,CA,"Los Angeles,California,United States",34.0522,-118.2437,hvac,hvac repair near me,hvac repair
+31080_roofer,31080,Los Angeles,CA,"Los Angeles,California,United States",34.0522,-118.2437,roofer,roofer near me,roofer
+16980_plumber,16980,Chicago,IL,"Chicago,Illinois,United States",41.8781,-87.6298,plumber,plumber near me,plumber
+16980_electrician,16980,Chicago,IL,"Chicago,Illinois,United States",41.8781,-87.6298,electrician,electrician near me,electrician
+16980_hvac,16980,Chicago,IL,"Chicago,Illinois,United States",41.8781,-87.6298,hvac,hvac repair near me,hvac repair
+16980_roofer,16980,Chicago,IL,"Chicago,Illinois,United States",41.8781,-87.6298,roofer,roofer near me,roofer
+19100_plumber,19100,Dallas,TX,"Dallas,Texas,United States",32.7767,-96.797,plumber,plumber near me,plumber
+19100_electrician,19100,Dallas,TX,"Dallas,Texas,United States",32.7767,-96.797,electrician,electrician near me,electrician
+19100_hvac,19100,Dallas,TX,"Dallas,Texas,United States",32.7767,-96.797,hvac,hvac repair near me,hvac repair
+19100_roofer,19100,Dallas,TX,"Dallas,Texas,United States",32.7767,-96.797,roofer,roofer near me,roofer
+26420_plumber,26420,Houston,TX,"Houston,Texas,United States",29.7604,-95.3698,plumber,plumber near me,plumber
+26420_electrician,26420,Houston,TX,"Houston,Texas,United States",29.7604,-95.3698,electrician,electrician near me,electrician
+26420_hvac,26420,Houston,TX,"Houston,Texas,United States",29.7604,-95.3698,hvac,hvac repair near me,hvac repair
+26420_roofer,26420,Houston,TX,"Houston,Texas,United States",29.7604,-95.3698,roofer,roofer near me,roofer
+33100_plumber,33100,Miami,FL,"Miami,Florida,United States",25.7617,-80.1918,plumber,plumber near me,plumber
+33100_electrician,33100,Miami,FL,"Miami,Florida,United States",25.7617,-80.1918,electrician,electrician near me,electrician
+33100_hvac,33100,Miami,FL,"Miami,Florida,United States",25.7617,-80.1918,hvac,hvac repair near me,hvac repair
+33100_roofer,33100,Miami,FL,"Miami,Florida,United States",25.7617,-80.1918,roofer,roofer near me,roofer
+47900_plumber,47900,Washington,DC,"Washington,District of Columbia,United States",38.9072,-77.0369,plumber,plumber near me,plumber
+47900_electrician,47900,Washington,DC,"Washington,District of Columbia,United States",38.9072,-77.0369,electrician,electrician near me,electrician
+47900_hvac,47900,Washington,DC,"Washington,District of Columbia,United States",38.9072,-77.0369,hvac,hvac repair near me,hvac repair
+47900_roofer,47900,Washington,DC,"Washington,District of Columbia,United States",38.9072,-77.0369,roofer,roofer near me,roofer
+12060_plumber,12060,Atlanta,GA,"Atlanta,Georgia,United States",33.749,-84.388,plumber,plumber near me,plumber
+12060_electrician,12060,Atlanta,GA,"Atlanta,Georgia,United States",33.749,-84.388,electrician,electrician near me,electrician
+12060_hvac,12060,Atlanta,GA,"Atlanta,Georgia,United States",33.749,-84.388,hvac,hvac repair near me,hvac repair
+12060_roofer,12060,Atlanta,GA,"Atlanta,Georgia,United States",33.749,-84.388,roofer,roofer near me,roofer
+37980_plumber,37980,Philadelphia,PA,"Philadelphia,Pennsylvania,United States",39.9526,-75.1652,plumber,plumber near me,plumber
+37980_electrician,37980,Philadelphia,PA,"Philadelphia,Pennsylvania,United States",39.9526,-75.1652,electrician,electrician near me,electrician
+37980_hvac,37980,Philadelphia,PA,"Philadelphia,Pennsylvania,United States",39.9526,-75.1652,hvac,hvac repair near me,hvac repair
+37980_roofer,37980,Philadelphia,PA,"Philadelphia,Pennsylvania,United States",39.9526,-75.1652,roofer,roofer near me,roofer
+38060_plumber,38060,Phoenix,AZ,"Phoenix,Arizona,United States",33.4484,-112.074,plumber,plumber near me,plumber
+38060_electrician,38060,Phoenix,AZ,"Phoenix,Arizona,United States",33.4484,-112.074,electrician,electrician near me,electrician
+38060_hvac,38060,Phoenix,AZ,"Phoenix,Arizona,United States",33.4484,-112.074,hvac,hvac repair near me,hvac repair
+38060_roofer,38060,Phoenix,AZ,"Phoenix,Arizona,United States",33.4484,-112.074,roofer,roofer near me,roofer
+14460_plumber,14460,Boston,MA,"Boston,Massachusetts,United States",42.3601,-71.0589,plumber,plumber near me,plumber
+14460_electrician,14460,Boston,MA,"Boston,Massachusetts,United States",42.3601,-71.0589,electrician,electrician near me,electrician
+14460_hvac,14460,Boston,MA,"Boston,Massachusetts,United States",42.3601,-71.0589,hvac,hvac repair near me,hvac repair
+14460_roofer,14460,Boston,MA,"Boston,Massachusetts,United States",42.3601,-71.0589,roofer,roofer near me,roofer
+40140_plumber,40140,Riverside,CA,"Riverside,California,United States",33.9806,-117.3755,plumber,plumber near me,plumber
+40140_electrician,40140,Riverside,CA,"Riverside,California,United States",33.9806,-117.3755,electrician,electrician near me,electrician
+40140_hvac,40140,Riverside,CA,"Riverside,California,United States",33.9806,-117.3755,hvac,hvac repair near me,hvac repair
+40140_roofer,40140,Riverside,CA,"Riverside,California,United States",33.9806,-117.3755,roofer,roofer near me,roofer
+41860_plumber,41860,San Francisco,CA,"San Francisco,California,United States",37.7749,-122.4194,plumber,plumber near me,plumber
+41860_electrician,41860,San Francisco,CA,"San Francisco,California,United States",37.7749,-122.4194,electrician,electrician near me,electrician
+41860_hvac,41860,San Francisco,CA,"San Francisco,California,United States",37.7749,-122.4194,hvac,hvac repair near me,hvac repair
+41860_roofer,41860,San Francisco,CA,"San Francisco,California,United States",37.7749,-122.4194,roofer,roofer near me,roofer
+19820_plumber,19820,Detroit,MI,"Detroit,Michigan,United States",42.3314,-83.0458,plumber,plumber near me,plumber
+19820_electrician,19820,Detroit,MI,"Detroit,Michigan,United States",42.3314,-83.0458,electrician,electrician near me,electrician
+19820_hvac,19820,Detroit,MI,"Detroit,Michigan,United States",42.3314,-83.0458,hvac,hvac repair near me,hvac repair
+19820_roofer,19820,Detroit,MI,"Detroit,Michigan,United States",42.3314,-83.0458,roofer,roofer near me,roofer
+42660_plumber,42660,Seattle,WA,"Seattle,Washington,United States",47.6062,-122.3321,plumber,plumber near me,plumber
+42660_electrician,42660,Seattle,WA,"Seattle,Washington,United States",47.6062,-122.3321,electrician,electrician near me,electrician
+42660_hvac,42660,Seattle,WA,"Seattle,Washington,United States",47.6062,-122.3321,hvac,hvac repair near me,hvac repair
+42660_roofer,42660,Seattle,WA,"Seattle,Washington,United States",47.6062,-122.3321,roofer,roofer near me,roofer
+33460_plumber,33460,Minneapolis,MN,"Minneapolis,Minnesota,United States",44.9778,-93.265,plumber,plumber near me,plumber
+33460_electrician,33460,Minneapolis,MN,"Minneapolis,Minnesota,United States",44.9778,-93.265,electrician,electrician near me,electrician
+33460_hvac,33460,Minneapolis,MN,"Minneapolis,Minnesota,United States",44.9778,-93.265,hvac,hvac repair near me,hvac repair
+33460_roofer,33460,Minneapolis,MN,"Minneapolis,Minnesota,United States",44.9778,-93.265,roofer,roofer near me,roofer
+45300_plumber,45300,Tampa,FL,"Tampa,Florida,United States",27.9506,-82.4572,plumber,plumber near me,plumber
+45300_electrician,45300,Tampa,FL,"Tampa,Florida,United States",27.9506,-82.4572,electrician,electrician near me,electrician
+45300_hvac,45300,Tampa,FL,"Tampa,Florida,United States",27.9506,-82.4572,hvac,hvac repair near me,hvac repair
+45300_roofer,45300,Tampa,FL,"Tampa,Florida,United States",27.9506,-82.4572,roofer,roofer near me,roofer
+41740_plumber,41740,San Diego,CA,"San Diego,California,United States",32.7157,-117.1611,plumber,plumber near me,plumber
+41740_electrician,41740,San Diego,CA,"San Diego,California,United States",32.7157,-117.1611,electrician,electrician near me,electrician
+41740_hvac,41740,San Diego,CA,"San Diego,California,United States",32.7157,-117.1611,hvac,hvac repair near me,hvac repair
+41740_roofer,41740,San Diego,CA,"San Diego,California,United States",32.7157,-117.1611,roofer,roofer near me,roofer
+19740_plumber,19740,Denver,CO,"Denver,Colorado,United States",39.7392,-104.9903,plumber,plumber near me,plumber
+19740_electrician,19740,Denver,CO,"Denver,Colorado,United States",39.7392,-104.9903,electrician,electrician near me,electrician
+19740_hvac,19740,Denver,CO,"Denver,Colorado,United States",39.7392,-104.9903,hvac,hvac repair near me,hvac repair
+19740_roofer,19740,Denver,CO,"Denver,Colorado,United States",39.7392,-104.9903,roofer,roofer near me,roofer
+36740_plumber,36740,Orlando,FL,"Orlando,Florida,United States",28.5383,-81.3792,plumber,plumber near me,plumber
+36740_electrician,36740,Orlando,FL,"Orlando,Florida,United States",28.5383,-81.3792,electrician,electrician near me,electrician
+36740_hvac,36740,Orlando,FL,"Orlando,Florida,United States",28.5383,-81.3792,hvac,hvac repair near me,hvac repair
+36740_roofer,36740,Orlando,FL,"Orlando,Florida,United States",28.5383,-81.3792,roofer,roofer near me,roofer
